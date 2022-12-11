@@ -8,12 +8,12 @@
 </details>
 
 
+# D2 SERVICES
+## [Me veja aqui]()
 
-## Tela Inicial
-![Me veja aqui]()
+## Previsualização da Página
 ![Thumbnail GitHub](https://raw.githubusercontent.com/LucasAlvesM/D2-SERVICES-STORE/main/tela-inicial.png)
   
-# D2 SERVICES
 
 Interface de uma loja virtual desenvolvida em bootstrap 5
 
