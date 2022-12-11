@@ -12,9 +12,9 @@ Interface de uma loja virtual desenvolvida em bootstrap 5
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
-- `Bootstrap 5
-- `Html e CSS
-- `JavaScript
-- `JQuery
+- ` Bootstrap 5
+- ` Html e CSS
+- ` JavaScript
+- ` JQuery
 
 
