@@ -5,7 +5,6 @@
 - [Html]
 - [Css]
 - [Bootstrap 5]
-<
 </details>
 
 
@@ -31,15 +30,10 @@ Após adicionar a imagem, também modifique as configurações do projeto para g
     
 </details>
   
-# Nome do projeto
+# D2 SERVICES
 
-Descreva o que é o projeto e o que ele faz
+Interface de uma loja virtual desenvolvida em bootstrap 5
 
-## 🔨 Funcionalidades do projeto
-
-Indique quais são as funcionalidades e comportamentos do App
-
-Se possível, apresente um exemplo visual do projeto, seja gif, imagens ou vídeo, abaixo segue um exemplo:
 
 ![](https://github.com/alura-cursos/android-com-kotlin-personalizando-ui/raw/master/img/amostra.gif)
 
