@@ -1,17 +1,9 @@
 
-<details>
-<summary><b>Front-end</b></summary>    
-- [JavaScript]
-- [Html]
-- [Css]
-- [Bootstrap 5]
-</details>
-
-
 # D2 SERVICES
-## [Me veja aqui]()
 
-## Previsualização da Página
+### [Me veja por completo clicando aqui]()
+
+Previsualização da Página
 ![Thumbnail GitHub](https://raw.githubusercontent.com/LucasAlvesM/D2-SERVICES-STORE/main/tela-inicial.png)
   
 
