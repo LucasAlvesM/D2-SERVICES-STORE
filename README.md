@@ -13,7 +13,7 @@
 
 Adicione a imagem de capa com o tema do seu projeto:
 
-![Thumbnail GitHub](https://user-images.githubusercontent.com/8989346/123303345-171fc980-d4f4-11eb-84ae-cb0e49bfb126.png)
+![Thumbnail GitHub](https://raw.githubusercontent.com/LucasAlvesM/D2-SERVICES-STORE/main/tela-inicial.png)
 
 > Você pode pegar a imagem a partir [deste template](https://docs.google.com/presentation/d/1im_-_spDdNEEsfrmjeZet2ZzVKjG-sQSBWfPFJhZ4q0/edit#slide=id.gb6f422ab58_0_111).
 
