@@ -9,26 +9,9 @@
 
 
 
-## Imagem de capa
-
-Adicione a imagem de capa com o tema do seu projeto:
+## Tela Inicial
 
 ![Thumbnail GitHub](https://raw.githubusercontent.com/LucasAlvesM/D2-SERVICES-STORE/main/tela-inicial.png)
-
-> Você pode pegar a imagem a partir [deste template](https://docs.google.com/presentation/d/1im_-_spDdNEEsfrmjeZet2ZzVKjG-sQSBWfPFJhZ4q0/edit#slide=id.gb6f422ab58_0_111).
-
-> Ou gerar neste [site](https://alura-github-thumbnail-generator.vercel.app/).
-
-Após adicionar a imagem, também modifique as configurações do projeto para garantir que a imagem vai ser carregada como thumbnail:
-
-**Settings** > **Options** > **Social preview** > **Edit** > **Upload an image...**
-
-<details>
-  <summary><b>Demonstração da adição de thumbnail<b/></summary>
-    
-![adicionando-imagem-preview](https://user-images.githubusercontent.com/8989346/123303159-e0e24a00-d4f3-11eb-9900-92a8b15bc31b.gif)
-    
-</details>
   
 # D2 SERVICES
 
